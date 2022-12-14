@@ -14,36 +14,36 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = true 
+global.autobio = true
 global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = english //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Miftah Bot" //namabot kalian
-global.ownername= "Miftah GanzZ" //nama kalian
-global.myweb ="https://linktr.ee/miftahbotz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://miftahganzz.my.id" //bebas
-global.email = "miftahganz01@gmail.com" //bebas
+global.botname = "Sachi Bot" //namabot kalian
+global.ownername= "Sachi Mlbb" //nama kalian
+global.myweb ="-" //bebas asal jan hapus
+global.youtube = "-" //bebas asal jan hapus
+global.myweb2 = "-" //bebas
+global.email = "sachimlbb01@gmail.com" //bebas
 global.region = "inggris" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
-global.owner = ["6285171226069"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285171226069" // nomor wa kalian
-global.ownernomerr = "+6285171226069" //nmr wa kalian
+global.owner = ["6285795025536"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285795025536" // nomor wa kalian
+global.ownernomerr = "+6285795025536" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/qr.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Miftah Botz' //sticker wm ubah
-global.author = 'Di Buat Oleh Miftah GanzZ' //sticker wm ganti nama kalian
+global.packname = '©Sachi Botz' //sticker wm ubah
+global.author = 'Di Buat Oleh Sachi Botz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
