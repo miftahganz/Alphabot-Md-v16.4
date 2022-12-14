@@ -28,7 +28,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Sachi Bot" //namabot kalian
 global.ownername= "Sachi Mlbb" //nama kalian
-global.myweb ="-" //bebas asal jan hapus
+global.myweb ="https://instagram.com/devitacans06?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
 global.youtube = "-" //bebas asal jan hapus
 global.myweb2 = "-" //bebas
 global.email = "sachimlbb01@gmail.com" //bebas
@@ -39,7 +39,7 @@ global.owner = ["6285795025536"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285795025536" // nomor wa kalian
 global.ownernomerr = "+6285795025536" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/qr.jpg" // foto donasi di folder image
+global.donasi = "./image/76f5fdb1-0a12-4e73-89ef-06bef3220a00.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '©Sachi Botz' //sticker wm ubah
